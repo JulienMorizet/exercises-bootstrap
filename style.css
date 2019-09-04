@@ -2,11 +2,9 @@ body {
     background-color:rgb(245, 245, 245);
 }
 
-.container1 {
+.container1, .container2, .container3, .container4 {
     background-color: #A770EB;
     
 }
 
-.container2 {
-    background-color: #A770EB; 
-}
+
